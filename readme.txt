@@ -16,3 +16,5 @@ branch dev line 3
 bugfix line 1
 
 bugfix line 2
+
+dev line 4
